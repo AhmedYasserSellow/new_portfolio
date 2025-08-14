@@ -24,7 +24,7 @@ class ProjectsData {
       name: 'Portfolio',
       description: 'you are using it right now',
       photoLink: 'assets/images/projects/portfolio.png',
-      githubLink: 'https://github.com/AhmedYasserSellow/Portfolio',
+      githubLink: 'https://github.com/AhmedYasserSellow/new_portfolio',
       skills: ['Flutter', 'Dart'],
     ),
   ];
