@@ -21,8 +21,8 @@ class PersonalData {
     ),
     linkedin: SocialMediaModel(
       iconPath: Assets.linkedin,
-      url: 'https://www.linkedin.com/in/ahmedyasser2002',
-      displayName: 'ahmedyasser2002',
+      url: 'https://www.linkedin.com/in/ahmedyasser3103',
+      displayName: 'ahmedyasser3103',
     ),
     whatsapp: SocialMediaModel(
       iconPath: Assets.whatsapp,

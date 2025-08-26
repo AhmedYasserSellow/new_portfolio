@@ -1,11 +1,11 @@
 {
-    "name": "Ahmed Yasser Portfolio",
-    "short_name": "Ahmed Portfolio",
+    "name": "Ahmed Yasser",
+    "short_name": "Ahmed Yasser",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Ahmed Yasser's Flutter portfolio application.",
+    "description": "Ahmed Yasser's Flutter Portfolio web application",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
